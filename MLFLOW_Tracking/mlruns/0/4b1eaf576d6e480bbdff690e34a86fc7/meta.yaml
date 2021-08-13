@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Prayank.Kulshrestha/Documents/MLFLOW/mlruns/0/4b1eaf576d6e480bbdff690e34a86fc7/artifacts
+end_time: 1628850138100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4b1eaf576d6e480bbdff690e34a86fc7
+run_uuid: 4b1eaf576d6e480bbdff690e34a86fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1628850137962
+status: 4
+tags: []
+user_id: Prayank.Kulshrestha
